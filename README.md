@@ -14,3 +14,9 @@ generated JSON Service Account Key:
 created GCP Service Accoucnt:
 
 <img width="1439" alt="Screen Shot 2022-05-14 at 7 49 44 PM" src="https://user-images.githubusercontent.com/41019523/168455016-40ac6e9b-f6ce-4ec4-af22-48f6ebe3aa8c.png">
+
+GitHub repository secrets:
+
+<img width="1430" alt="Screen Shot 2022-05-14 at 8 10 16 PM" src="https://user-images.githubusercontent.com/41019523/168455519-6289ffe7-766a-46a9-ac66-fcaa936830f0.png">
+
+
