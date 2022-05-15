@@ -25,4 +25,8 @@ GitHub repository secrets:
 
 CD workflow building:
 
+<img width="726" alt="Screen Shot 2022-05-15 at 2 22 42 PM" src="https://user-images.githubusercontent.com/41019523/168494438-fe9f0502-2e97-4880-94a0-242f580bf188.png">
+
+
+
 
