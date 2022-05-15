@@ -19,4 +19,10 @@ GitHub repository secrets:
 
 <img width="1430" alt="Screen Shot 2022-05-14 at 8 10 16 PM" src="https://user-images.githubusercontent.com/41019523/168455519-6289ffe7-766a-46a9-ac66-fcaa936830f0.png">
 
+ release which will trigger CD workflow:
+
+<img width="1440" alt="Screen Shot 2022-05-14 at 8 16 30 PM" src="https://user-images.githubusercontent.com/41019523/168455670-4f78dcb2-1c8d-408d-a34b-d7d536721596.png">
+
+CD workflow building:
+
 
